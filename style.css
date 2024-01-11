@@ -1,0 +1,71 @@
+.bg_1{
+background-image: url(image/apps.24270.13847644057609868.a4a91f76-8d1c-4e19-aa78-f4d27d2818fb.jfif);
+}
+
+.bg_2{
+background-image: url(image/qi2c3ty6q8511.jpg);
+}
+
+.bg_3{
+background-image: url(IMAGE/how-hollow-knights-community-crafted-gibberish-into-a-real-language-1567781461548-550x309.jpg);
+}
+
+.bg_4{
+background-image: url(image/hollow-knight-switch-analisis-1530357210277.webp);
+}
+
+.color_1{
+background-color: rgb(35, 42, 42);
+}
+
+.color_2{
+background-color: rgb(42, 50, 57);
+}
+
+.color_3{
+background-color: rgb(55, 57, 62);
+}
+
+.fixed_bg, .infos{
+position: relative;
+height: 100%;
+}
+
+html,body{
+    height: 100%;
+}
+
+.fixed_bg{
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.vcenter{
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    color: aliceblue;
+}
+
+.vcenter2{
+    position: absolute;
+    top: 60%;
+    left: 26%;
+    color: aliceblue;
+}
+
+.vcenter3{
+    position: absolute;
+    top: 80%;
+    left: 45%;
+    color: aliceblue;
+}
+
+.vcenter4{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    color: aliceblue;
+}
